@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Santigutierrez11/CursoJS/issues"
   },
-  "homepage": "https://github.com/Santigutierrez11/CursoJS#readme"
+  "homepage": "https://github.com/Santigutierrez11/CursoJS#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
